@@ -1,0 +1,14 @@
+C:\Personal-Code\DemoConsoleApp\bin\Debug\net9.0\DemoConsoleApp.exe
+C:\Personal-Code\DemoConsoleApp\bin\Debug\net9.0\DemoConsoleApp.deps.json
+C:\Personal-Code\DemoConsoleApp\bin\Debug\net9.0\DemoConsoleApp.runtimeconfig.json
+C:\Personal-Code\DemoConsoleApp\bin\Debug\net9.0\DemoConsoleApp.dll
+C:\Personal-Code\DemoConsoleApp\bin\Debug\net9.0\DemoConsoleApp.pdb
+C:\Personal-Code\DemoConsoleApp\obj\Debug\net9.0\DemoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal-Code\DemoConsoleApp\obj\Debug\net9.0\DemoConsoleApp.AssemblyInfoInputs.cache
+C:\Personal-Code\DemoConsoleApp\obj\Debug\net9.0\DemoConsoleApp.AssemblyInfo.cs
+C:\Personal-Code\DemoConsoleApp\obj\Debug\net9.0\DemoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Personal-Code\DemoConsoleApp\obj\Debug\net9.0\DemoConsoleApp.dll
+C:\Personal-Code\DemoConsoleApp\obj\Debug\net9.0\refint\DemoConsoleApp.dll
+C:\Personal-Code\DemoConsoleApp\obj\Debug\net9.0\DemoConsoleApp.pdb
+C:\Personal-Code\DemoConsoleApp\obj\Debug\net9.0\DemoConsoleApp.genruntimeconfig.cache
+C:\Personal-Code\DemoConsoleApp\obj\Debug\net9.0\ref\DemoConsoleApp.dll
