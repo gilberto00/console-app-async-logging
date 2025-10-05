@@ -91,7 +91,3 @@ Comment appliquer l’asynchronisme dans un flux simple
 
 
 ---
-
-💡 **Dica extra:**  
-Se quiser, posso gerar **uma versão em inglês** também (útil caso você decida usar o mesmo projeto no LinkedIn ou portfolio internacional).  
-Quer que eu gere a versão em inglês também?
